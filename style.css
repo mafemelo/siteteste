@@ -1,0 +1,63 @@
+
+table{
+    width: 100%; 
+}
+
+#verde{
+    width: 15%;
+    background-color:#e3ffb6;
+}
+
+#cinza-1{
+    background-color:#d9d9d9 ;
+}
+#logo{
+    width: 5%; 
+}
+
+#azul-1{
+    width: 45%;
+    background-color: #6bc1ff;
+}
+
+#amarelo{
+    width: 15%;
+   background-color: #fffb99;
+}
+
+#laranja{
+    width: 5%;
+    background-color:#ff9900;
+}
+
+#azul-2{
+    width: 8%;
+    background-color: #6bc1ff;
+}
+
+#td-7{
+    width: 10% ;
+}
+
+.fundocinza{
+    background-color: #d9d9d9;
+}
+
+.rosinha{
+    background-color: #ff9a9a;
+}
+
+.img1{
+  margin-left: 35%;
+  margin-bottom: 25px;
+  margin-left: 25;
+}
+.img2{
+    margin-left: 5.5%;
+    
+}
+
+.p{
+    margin-top: 2px;
+    text-align: left;
+}
